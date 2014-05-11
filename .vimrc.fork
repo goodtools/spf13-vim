@@ -7,3 +7,5 @@ set termencoding=utf-8
 "
 " set eclim
 set mouse=v
+
+Bundle 'bash-support.vim'
